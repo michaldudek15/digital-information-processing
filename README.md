@@ -1,8 +1,12 @@
 # elektroniczne przetwarzanie informacji 🎓
 
+## semester VI, summer 2025
+
+### [diploma project](https://github.com/michaldudek15/aplikacja_dla_chorych_na_nieswoiste_zapalenia_jelit)
+
 ## semester V, winter 2024
 
-### [graphical-interface](https://github.com/michaldudek15/elektroniczne-przetwarzanie-informacji/tree/main/graphical-interface)
+### [graphical interface](https://github.com/michaldudek15/elektroniczne-przetwarzanie-informacji/tree/main/graphical-interface)
 
 ## semester IV, summer 2024
 
