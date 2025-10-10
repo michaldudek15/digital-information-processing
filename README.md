@@ -1,5 +1,9 @@
 # elektroniczne przetwarzanie informacji 🎓
 
+## semester VII, winter 2025
+
+###  [advanced programming techniques I](https://github.com/michaldudek15/elektroniczne-przetwarzanie-informacji/tree/main/advanced-programming-techniques-I)
+
 ## semester VI, summer 2025
 
 ### [diploma project](https://github.com/michaldudek15/aplikacja_dla_chorych_na_nieswoiste_zapalenia_jelit)
