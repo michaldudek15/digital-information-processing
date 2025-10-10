@@ -1,4 +1,4 @@
-# elektroniczne przetwarzanie informacji 🎓
+# digital information processing 🎓
 
 ## semester VII, winter 2025
 
