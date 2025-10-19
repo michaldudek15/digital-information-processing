@@ -94,7 +94,7 @@ class Rental:
             if v.id == vehicle_id and v.busy:
                 v.return_()
                 self.logger.log(f"Zwrócono pojazd {v.name}")
-                return f"Zwrócono pojazd {v.name}"
+                return f"Zwrócono pojazd {v.name}" 
         return "Pojazd nie był wypożyczony lub nie istnieje."
     
 rental = Rental([Car(1, "Mazda"), Bike(2, "Trek"), Truck(3, "Volvo")])
