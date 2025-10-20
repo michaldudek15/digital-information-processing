@@ -1,0 +1,8 @@
+pierwsza linia tekstu
+druga linia tekstu
+
+trzecia linia, bo poprzednia jest pusta
+czwarta linia
+
+
+5 piątalinia
