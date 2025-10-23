@@ -31,4 +31,3 @@ if high_sales:
     print("średnia wartość sprzedaży powyżej 1000: ", avg)
 else:
     print("nie ma sprzedaży powyżej 1000") 
-
