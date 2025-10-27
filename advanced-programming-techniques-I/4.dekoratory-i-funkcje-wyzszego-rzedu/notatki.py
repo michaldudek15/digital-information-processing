@@ -62,10 +62,10 @@ hello()
 
 # ----------------------------------------
 
-@measure_time
-@logger
-def test():
-    time.sleep(1)
+# @measure_time
+# @logger
+# def test():
+#     time.sleep(1)
 
 # (od dołu do góry)
 
