@@ -1,0 +1,37 @@
+[
+    {
+        "ID": "1",
+        "Nazwa": "Laptop Lenovo ThinkPad",
+        "Kategoria": "Elektronika",
+        "Cena": "4599",
+        "Stan_magazynowy": "12"
+    },
+    {
+        "ID": "2",
+        "Nazwa": "Mysz Logitech M185",
+        "Kategoria": "Akcesoria",
+        "Cena": "89",
+        "Stan_magazynowy": "45"
+    },
+    {
+        "ID": "3",
+        "Nazwa": "Monitor Dell 24\"",
+        "Kategoria": "Elektronika",
+        "Cena": "799",
+        "Stan_magazynowy": "8"
+    },
+    {
+        "ID": "4",
+        "Nazwa": "Krzesło biurowe ErgoPro",
+        "Kategoria": "Meble",
+        "Cena": "649",
+        "Stan_magazynowy": "5"
+    },
+    {
+        "ID": "5",
+        "Nazwa": "Kabel HDMI 2m",
+        "Kategoria": "Akcesoria",
+        "Cena": "29",
+        "Stan_magazynowy": "60"
+    }
+]

@@ -1,0 +1,11 @@
+ID;Data_zamówienia;Klient;Produkt;Kategoria;Cena_jednostkowa;Ilość;Wartość_zamówienia;Status
+1001;2025-10-15;Anna Nowak;Laptop HP Envy;Elektronika;5299;1;5299;Zrealizowane
+1002;2025-10-16;Piotr Kowalski;Mysz bezprzewodowa Logitech;Akcesoria;129;2;258;Zrealizowane
+1003;2025-10-17;Ewa Zielińska;Monitor Samsung 27";Elektronika;999;1;999;W trakcie
+1004;2025-10-18;Tomasz Wiśniewski;Krzesło biurowe Ergo+;Meble;849;1;849;Zrealizowane
+1005;2025-10-18;Magda Krawczyk;Kabel HDMI 3m;Akcesoria;39;3;117;Zrealizowane
+1006;2025-10-19;Marek Duda;Smartfon Samsung Galaxy S24;Elektronika;4899;1;4899;Anulowane
+1007;2025-10-20;Katarzyna Lewandowska;Zestaw biurkowy;Meble;599;1;599;Zrealizowane
+1008;2025-10-20;Robert Wójcik;Powerbank Baseus 20000mAh;Akcesoria;159;1;159;Zrealizowane
+1009;2025-10-21;Jan Kaczmarek;Słuchawki Sony WH-CH720N;Elektronika;699;2;1398;W trakcie
+1010;2025-10-22;Agnieszka Maj;Klawiatura mechaniczna Keychron K8;Akcesoria;449;1;449;Zrealizowane
