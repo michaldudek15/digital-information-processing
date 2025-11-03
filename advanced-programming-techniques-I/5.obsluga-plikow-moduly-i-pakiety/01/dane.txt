@@ -1,0 +1,4 @@
+Imię: michal, Wiek: 24
+Imię: basia, Wiek: 16
+Imię: michalek, Wiek: 1235
+Imię: tata, Wiek: 16
