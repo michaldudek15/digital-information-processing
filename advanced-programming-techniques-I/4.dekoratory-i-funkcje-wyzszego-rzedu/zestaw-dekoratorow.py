@@ -94,4 +94,3 @@ if __name__ == "__main__":
     print(f"to_celsius(100) = {to_celsius(100)}")
     print(f"to_fahrenheit(0) = {to_fahrenheit(0)}")
     print(f"slow_function(4) = {slow_function(4)}")
-    #print(f"slow_function(4) = {slow_function(4)}")
