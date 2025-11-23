@@ -3,6 +3,7 @@
 ## semester VII, winter 2025
 
 ###  [advanced programming techniques I](https://github.com/michaldudek15/elektroniczne-przetwarzanie-informacji/tree/main/advanced-programming-techniques-I)
+### [information-extraction](https://github.com/michaldudek15/digital-information-processing/tree/main/information-extraction)
 
 ## semester VI, summer 2025
 
